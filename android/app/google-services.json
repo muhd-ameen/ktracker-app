@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "57687146943",
+    "project_id": "ktracker-4a7c2",
+    "storage_bucket": "ktracker-4a7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57687146943:android:325ed27b8e35389ccf210a",
+        "android_client_info": {
+          "package_name": "com.aminocode.ktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57687146943-72m1r1qldofeg35hthig5n7uu545587c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aminocode.ktracker",
+            "certificate_hash": "2598eaabed1bc79a9162bb1449e0f669f97dd596"
+          }
+        },
+        {
+          "client_id": "57687146943-v288mmu0cn2b3n6jbvktmk95na67ouko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aminocode.ktracker",
+            "certificate_hash": "7fce4259e76a76d6378bad3d2ff1881b93fb30e2"
+          }
+        },
+        {
+          "client_id": "57687146943-tt96gu4a6aorn2fcoi3jd1fasogikup2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6KynmdlCTz_rBkKuRvEmV-cqaXyOI3qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57687146943-tt96gu4a6aorn2fcoi3jd1fasogikup2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
